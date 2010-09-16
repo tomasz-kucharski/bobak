@@ -95,7 +95,12 @@
 				<artifactId>log4j-over-slf4j</artifactId>
 				<version>1.6.1</version>
 			</dependency>
-        </dependencies>
-    </dependencyManagement>
-
+			<dependency>
+				<groupId>junit</groupId>
+				<artifactId>junit</artifactId>
+				<version>4.8.1</version>
+				<scope>test</scope>
+			</dependency>
+		</dependencies>
+	</dependencyManagement>
 </project>
