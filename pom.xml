@@ -3,7 +3,7 @@
     <groupId>pl.com.javart.bobak</groupId>
     <artifactId>bobak</artifactId>
     <packaging>pom</packaging>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <description>Bobak</description>
     <name>Bobak</name>
 
