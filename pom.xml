@@ -26,8 +26,6 @@
 	</modules>
 	<build>
         <plugins>
-		
-		
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <configuration>
@@ -60,7 +58,6 @@
 		</plugins>
     </build>
 
-    <dependencyManagement>
         <dependencies>
 			<dependency>
 				<groupId>org.perf4j</groupId>
@@ -104,5 +101,4 @@
 				<scope>test</scope>
 			</dependency>
 		</dependencies>
-	</dependencyManagement>
 </project>
